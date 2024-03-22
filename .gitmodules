@@ -1,0 +1,6 @@
+[submodule "cocoapods"]
+	path = cocoapods
+	url = https://github.com/CocoaPods/CocoaPods
+[submodule "cocoapods-core"]
+	path = cocoapods-core
+	url = https://github.com/CocoaPods/Core

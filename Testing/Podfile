@@ -9,6 +9,8 @@ target 'Testing' do
   use_frameworks!
 
   pod 'Then'
+  pod 'TestModule', :path => 'Module/TestModule', :static_framework => true
+  pod 'Alamofire', :inhibit_warnings => true, :static_framework => true
 
   target 'TestingTests' do
     inherit! :search_paths

@@ -5,7 +5,7 @@ DEPENDENCIES:
   - Then
 
 SPEC REPOS:
-  https://github.com/CocoaPods/Specs.git:
+  trunk:
     - Then
 
 SPEC CHECKSUMS:
@@ -13,4 +13,4 @@ SPEC CHECKSUMS:
 
 PODFILE CHECKSUM: 93b60c8a809f7d83966ce348802920da3cc7bf40
 
-COCOAPODS: 1.8.0.beta.1
+COCOAPODS: 1.15.2
